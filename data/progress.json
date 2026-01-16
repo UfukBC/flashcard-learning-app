@@ -1,0 +1,122 @@
+[
+    {
+        "cardId": 1,
+        "interval": 2,
+        "repetitions": 3,
+        "easeFactor": 2.35,
+        "quality": 4,
+        "nextReviewDate": "2026-01-18",
+        "lastReviewDate": "2026-01-16 20:50:29",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 2,
+        "interval": 3,
+        "repetitions": 2,
+        "easeFactor": 2.6,
+        "quality": 5,
+        "nextReviewDate": "2026-01-19",
+        "lastReviewDate": "2026-01-16 20:50:33",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 3,
+        "interval": 3,
+        "repetitions": 2,
+        "easeFactor": 2.6,
+        "quality": 5,
+        "nextReviewDate": "2026-01-19",
+        "lastReviewDate": "2026-01-16 20:50:37",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 4,
+        "interval": 3,
+        "repetitions": 2,
+        "easeFactor": 2.6,
+        "quality": 4,
+        "nextReviewDate": "2026-01-19",
+        "lastReviewDate": "2026-01-16 20:50:40",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 5,
+        "interval": 3,
+        "repetitions": 2,
+        "easeFactor": 2.6,
+        "quality": 4,
+        "nextReviewDate": "2026-01-19",
+        "lastReviewDate": "2026-01-16 20:50:50",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 6,
+        "interval": 1,
+        "repetitions": 0,
+        "easeFactor": 1.8000000000000003,
+        "quality": 0,
+        "nextReviewDate": "2026-01-17",
+        "lastReviewDate": "2026-01-16 20:50:55",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 7,
+        "interval": 3,
+        "repetitions": 2,
+        "easeFactor": 2.6,
+        "quality": 4,
+        "nextReviewDate": "2026-01-19",
+        "lastReviewDate": "2026-01-16 20:51:00",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 8,
+        "interval": 3,
+        "repetitions": 2,
+        "easeFactor": 2.7,
+        "quality": 5,
+        "nextReviewDate": "2026-01-19",
+        "lastReviewDate": "2026-01-16 20:51:03",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 9,
+        "interval": 1,
+        "repetitions": 1,
+        "easeFactor": 2.5,
+        "quality": 4,
+        "nextReviewDate": "2026-01-17",
+        "lastReviewDate": "2026-01-16 20:51:06",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 10,
+        "interval": 1,
+        "repetitions": 1,
+        "easeFactor": 2.6,
+        "quality": 5,
+        "nextReviewDate": "2026-01-17",
+        "lastReviewDate": "2026-01-16 20:51:10",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 11,
+        "interval": 1,
+        "repetitions": 1,
+        "easeFactor": 2.6,
+        "quality": 5,
+        "nextReviewDate": "2026-01-17",
+        "lastReviewDate": "2026-01-16 21:22:37",
+        "createdAt": "2026-01-16 21:22:40"
+    },
+    {
+        "cardId": 12,
+        "interval": 1,
+        "repetitions": 1,
+        "easeFactor": 2.6,
+        "quality": 5,
+        "nextReviewDate": "2026-01-17",
+        "lastReviewDate": "2026-01-16 21:22:40",
+        "createdAt": "2026-01-16 21:22:40"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "finnishWord": "kissa",
+        "definition": "Four-legged domestic animal, the Finnish name for cat",
+        "turkishMeaning": "Kedi",
+        "englishMeaning": "Cat",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 2,
+        "finnishWord": "koira",
+        "definition": "Four-legged domestic animal, the Finnish name for dog",
+        "turkishMeaning": "Köpek",
+        "englishMeaning": "Dog",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 3,
+        "finnishWord": "talo",
+        "definition": "Building where people live, house",
+        "turkishMeaning": "Ev",
+        "englishMeaning": "House",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 4,
+        "finnishWord": "auto",
+        "definition": "Wheeled vehicle for transportation",
+        "turkishMeaning": "Araba",
+        "englishMeaning": "Car",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 5,
+        "finnishWord": "vesi",
+        "definition": "Clear liquid, necessary for drinking",
+        "turkishMeaning": "Su",
+        "englishMeaning": "Water",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 6,
+        "finnishWord": "kissa",
+        "definition": "adsasdsa",
+        "turkishMeaning": "ked",
+        "englishMeaning": "cat",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 7,
+        "finnishWord": "patafas",
+        "definition": "fasfas",
+        "turkishMeaning": "afsfasfasfa",
+        "englishMeaning": "fgsdsdg",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 8,
+        "finnishWord": "patafas",
+        "definition": "fasfas",
+        "turkishMeaning": "afsfasfasfa",
+        "englishMeaning": "fgsdsdg",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 9,
+        "finnishWord": "kissa",
+        "definition": "asdmşlasd",
+        "turkishMeaning": "kedi",
+        "englishMeaning": "car",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 10,
+        "finnishWord": "kissa",
+        "definition": "asdmşlasd",
+        "turkishMeaning": "kedi",
+        "englishMeaning": "car",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 11,
+        "finnishWord": "asdöjasd",
+        "definition": "ıaslnkdmlas\nğdlias",
+        "turkishMeaning": "alsşdöçasdasd",
+        "englishMeaning": "-a*oğpkfşsğlaspilmşafs",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    },
+    {
+        "id": 12,
+        "finnishWord": "asdöjasd",
+        "definition": "ıaslnkdmlas\nğdlias",
+        "turkishMeaning": "alsşdöçasdasd",
+        "englishMeaning": "-a*oğpkfşsğlaspilmşafs",
+        "createdAt": "2026-01-16 21:22:16",
+        "updatedAt": "2026-01-16 21:22:16"
+    }
+]
